@@ -3,7 +3,7 @@
     //  AGENCY / ADMIN SETTINGS
     // ***********************************************
     const CLIENT_ID = window.AIFL_CLIENT_ID || "unregistered_user";
-    const WORKER_URL = "https://YOUR_NEW_WORKER_URL_HERE.workers.dev"; // UPDATE THIS BEFORE SCRAMBLING!
+    const WORKER_URL = "https://whitelabel-api.learnaiwithnik.workers.dev"; // UPDATE THIS BEFORE SCRAMBLING!
     
     // AGENCY BRANDING
     const BRAND_COLOR = window.AIFL_BTN_COLOR || "#000";
